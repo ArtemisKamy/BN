@@ -1,0 +1,3 @@
+P1 Ganhou
+Ataques P1: 26
+Ataques P2: 27
